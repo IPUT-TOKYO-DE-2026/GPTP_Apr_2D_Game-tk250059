@@ -5,7 +5,6 @@
 
 <img width="1921" height="1074" alt="スクリーンショット 2026-04-27 163308" src="https://github.com/user-attachments/assets/390c26fd-7981-4505-b2bb-a8beccd06aab" />
 
-
 ## 操作説明
 - WASDでの前後左右移動
 - 黒は障害物で通れない
